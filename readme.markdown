@@ -12,6 +12,12 @@ $ sudo npm install -g baudio
 $ baudio made-for-tv-drama.js
 ```
 
+# play from the browser
+
+or copy one of the files into
+
+[http://studio.substack.net](http://studio.substack.net)
+
 # record
 
 to record a song:
