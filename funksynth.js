@@ -46,7 +46,7 @@ return function (t) {
     if (x === Infinity || x === -Infinity || isNaN(x)) return 0;
     return Math.min(1, Math.max(-1, x));
   }
-};
+}
 
 function snare () {
   var low0 = lowpass(800);
